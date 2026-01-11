@@ -1,1 +1,0 @@
-# store1-customer-data-cleaning
